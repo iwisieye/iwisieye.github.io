@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwisieye.github.io/Mwx/sitemap_index.txt
+Sitemap: https://iwisieye.github.io/QBl/sitemap_index.txt
+Sitemap: https://iwisieye.github.io/laR/sitemap_index.txt
+Sitemap: https://iwisieye.github.io/oPq/sitemap_index.txt
